@@ -1,0 +1,22 @@
+{
+  "wheel_id": 545,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-152",
+  "project": "kitchen-renovations-north-shore-beginner-guide-393a235c06805",
+  "parent_t1_ref": "northshorekitchenrenovation-011",
+  "node_role": "buffer",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore beginner guide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-north-shore-beginner-guide-393a235c06805/",
+  "tier": "T2",
+  "writeback_nonce": "d07d9b0473d4f22b",
+  "links": [
+    {
+      "target_url": "https://kitchen-renovations-north-shore-northshorekitchenrenovat-fbeb30.gitlab.io/",
+      "anchor": "https://kitchen-renovations-north-shore-northshorekitchenrenovat-fbeb30.gitlab.io/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
